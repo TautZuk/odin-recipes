@@ -1,0 +1,16 @@
+body {
+    background: yellow;
+}
+ul {
+    background: blue;
+    color: red;
+}
+
+ol {
+    background: green;
+    color: orange;
+}
+
+ul, ol {
+    font-size: 24px;
+}
